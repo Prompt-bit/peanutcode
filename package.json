@@ -3,7 +3,7 @@
   "version": "1.102.0",
   "distro": "969a2e84edcb47f53fbc4f8aa419dc7c062c71cf",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "PeaNutee Corporation"
   },
   "license": "MIT",
   "main": "./out/main.js",
@@ -79,7 +79,7 @@
     "@vscode/proxy-agent": "^0.32.0",
     "@vscode/ripgrep": "^1.15.13",
     "@vscode/spdlog": "^0.15.2",
-    "@vscode/sqlite3": "5.1.8-vscode",
+    "@vscode/sqlite3": "5.1.8-pn",
     "@vscode/sudo-prompt": "9.3.1",
     "@vscode/tree-sitter-wasm": "^0.1.4",
     "@vscode/vscode-languagedetection": "1.0.21",
